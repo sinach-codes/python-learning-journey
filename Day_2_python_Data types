@@ -1,0 +1,21 @@
+# Day 2 - Python Basics
+
+# What I learned:
+# - Data types (int, float, str)
+# - Type checking using type()
+# - Type conversion (int(), float(), str())
+# - Mathematical operations
+# - Handling type errors
+
+# Example of data types
+name = "John"   (str)
+age = 20        (int)
+height = 5.9   (float)
+
+# Type checking
+print(type(name))
+print(type(age))
+
+# Type conversion
+num = "10"
+print(int(num) + 5)
